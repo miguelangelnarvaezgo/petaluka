@@ -15,14 +15,14 @@
       "ft" : 512,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/build\/_components.html",
+      "oAP" : "\/docs\/_components.html",
       "oF" : 0,
       "oS" : 0
     },
     "\/build" : {
       "ft" : 65536,
       "oA" : 1,
-      "oAP" : "\/build\/build",
+      "oAP" : "\/docs\/build",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Black.ttf" : {
@@ -30,7 +30,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Black.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Black.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-BlackItalic.ttf" : {
@@ -38,7 +38,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-BlackItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-BlackItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Bold.ttf" : {
@@ -46,7 +46,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Bold.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Bold.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-BoldItalic.ttf" : {
@@ -54,7 +54,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-BoldItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-BoldItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraBold.ttf" : {
@@ -62,7 +62,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraBold.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraBold.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraBoldItalic.ttf" : {
@@ -70,7 +70,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraBoldItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraBoldItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraLight.ttf" : {
@@ -78,7 +78,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraLight.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraLight.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraLightItalic.ttf" : {
@@ -86,7 +86,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraLightItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ExtraLightItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Italic.ttf" : {
@@ -94,7 +94,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Italic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Italic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Light.ttf" : {
@@ -102,7 +102,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Light.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Light.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-LightItalic.ttf" : {
@@ -110,7 +110,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-LightItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-LightItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Medium.ttf" : {
@@ -118,7 +118,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Medium.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Medium.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-MediumItalic.ttf" : {
@@ -126,7 +126,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-MediumItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-MediumItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Regular.ttf" : {
@@ -134,7 +134,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Regular.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Regular.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-SemiBold.ttf" : {
@@ -142,7 +142,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-SemiBold.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-SemiBold.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-SemiBoldItalic.ttf" : {
@@ -150,7 +150,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-SemiBoldItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-SemiBoldItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Thin.ttf" : {
@@ -158,7 +158,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Thin.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Thin.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ThinItalic.ttf" : {
@@ -166,7 +166,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ThinItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Poppins\/Poppins-ThinItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Black.ttf" : {
@@ -174,7 +174,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Black.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Black.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-BlackItalic.ttf" : {
@@ -182,7 +182,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-BlackItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-BlackItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Bold.ttf" : {
@@ -190,7 +190,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Bold.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Bold.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-BoldItalic.ttf" : {
@@ -198,7 +198,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-BoldItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-BoldItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-ExtraBold.ttf" : {
@@ -206,7 +206,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-ExtraBold.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-ExtraBold.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-ExtraBoldItalic.ttf" : {
@@ -214,7 +214,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-ExtraBoldItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-ExtraBoldItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Italic.ttf" : {
@@ -222,7 +222,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Italic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Italic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Medium.ttf" : {
@@ -230,7 +230,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Medium.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Medium.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-MediumItalic.ttf" : {
@@ -238,7 +238,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-MediumItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-MediumItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Regular.ttf" : {
@@ -246,7 +246,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Regular.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-Regular.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-SemiBold.ttf" : {
@@ -254,7 +254,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-SemiBold.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-SemiBold.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-SemiBoldItalic.ttf" : {
@@ -262,7 +262,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-SemiBoldItalic.ttf",
+      "oAP" : "\/docs\/css\/itcss\/_00_fonts\/Vollkorn\/Vollkorn-SemiBoldItalic.ttf",
       "oF" : 0
     },
     "\/css\/itcss\/_01_settings\/_settings_poppins.css" : {
@@ -273,7 +273,7 @@
       "ft" : 16,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_01_settings\/_settings_poppins.css",
+      "oAP" : "\/docs\/css\/itcss\/_01_settings\/_settings_poppins.css",
       "oF" : 0,
       "pg" : 0
     },
@@ -285,7 +285,7 @@
       "ft" : 16,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_01_settings\/_settings_vollkorn.css",
+      "oAP" : "\/docs\/css\/itcss\/_01_settings\/_settings_vollkorn.css",
       "oF" : 0,
       "pg" : 0
     },
@@ -298,7 +298,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_01_settings\/_settings.css",
+      "oAP" : "\/docs\/css\/itcss\/_01_settings\/_settings.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -313,7 +313,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_02_tools\/_tools.css",
+      "oAP" : "\/docs\/css\/itcss\/_02_tools\/_tools.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -328,7 +328,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_03_generic\/_generic_reset.css",
+      "oAP" : "\/docs\/css\/itcss\/_03_generic\/_generic_reset.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -343,7 +343,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_03_generic\/_generic.css",
+      "oAP" : "\/docs\/css\/itcss\/_03_generic\/_generic.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -358,7 +358,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_04_elements\/_elements_fonts.css",
+      "oAP" : "\/docs\/css\/itcss\/_04_elements\/_elements_fonts.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -373,7 +373,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_04_elements\/_elements_grid.css",
+      "oAP" : "\/docs\/css\/itcss\/_04_elements\/_elements_grid.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -388,7 +388,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_04_elements\/_elements.css",
+      "oAP" : "\/docs\/css\/itcss\/_04_elements\/_elements.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -403,7 +403,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_05_objects\/_object_home.css",
+      "oAP" : "\/docs\/css\/itcss\/_05_objects\/_object_home.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -418,7 +418,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_05_objects\/_objects.css",
+      "oAP" : "\/docs\/css\/itcss\/_05_objects\/_objects.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -433,7 +433,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_06_components\/_components_article-01.css",
+      "oAP" : "\/docs\/css\/itcss\/_06_components\/_components_article-01.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -448,7 +448,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_06_components\/_components_button.css",
+      "oAP" : "\/docs\/css\/itcss\/_06_components\/_components_button.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -463,7 +463,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_06_components\/_components_footer.css",
+      "oAP" : "\/docs\/css\/itcss\/_06_components\/_components_footer.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -478,7 +478,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_06_components\/_components_form.css",
+      "oAP" : "\/docs\/css\/itcss\/_06_components\/_components_form.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -493,7 +493,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_06_components\/_components_header.css",
+      "oAP" : "\/docs\/css\/itcss\/_06_components\/_components_header.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -508,7 +508,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_06_components\/_components_listItems.css",
+      "oAP" : "\/docs\/css\/itcss\/_06_components\/_components_listItems.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -523,7 +523,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_06_components\/_components_nav.css",
+      "oAP" : "\/docs\/css\/itcss\/_06_components\/_components_nav.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -538,7 +538,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_06_components\/_components_section-01.css",
+      "oAP" : "\/docs\/css\/itcss\/_06_components\/_components_section-01.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -553,7 +553,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_06_components\/_components_toStart.css",
+      "oAP" : "\/docs\/css\/itcss\/_06_components\/_components_toStart.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -568,7 +568,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_06_components\/_components_video-01.css",
+      "oAP" : "\/docs\/css\/itcss\/_06_components\/_components_video-01.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -583,7 +583,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_06_components\/_components.css",
+      "oAP" : "\/docs\/css\/itcss\/_06_components\/_components.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -598,7 +598,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_07_utilities\/_utilities_overrides.css",
+      "oAP" : "\/docs\/css\/itcss\/_07_utilities\/_utilities_overrides.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -613,7 +613,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_07_utilities\/_utilities.css",
+      "oAP" : "\/docs\/css\/itcss\/_07_utilities\/_utilities.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -628,7 +628,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/css\/itcss\/_itcss.css",
+      "oAP" : "\/docs\/css\/itcss\/_itcss.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -643,7 +643,7 @@
       "ft" : 4,
       "ma" : 1,
       "oA" : 0,
-      "oAP" : "\/build\/css\/style.css",
+      "oAP" : "\/docs\/css\/style.css",
       "oF" : 0,
       "oS" : 3,
       "pg" : 0,
@@ -653,7 +653,7 @@
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/img\/facebook.svg",
+      "oAP" : "\/docs\/img\/facebook.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -664,14 +664,14 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/img\/header.mp4",
+      "oAP" : "\/docs\/img\/header.mp4",
       "oF" : 0
     },
     "\/img\/instagram.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/img\/instagram.svg",
+      "oAP" : "\/docs\/img\/instagram.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -681,7 +681,7 @@
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/img\/linkedin_icon.svg",
+      "oAP" : "\/docs\/img\/linkedin_icon.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -691,7 +691,7 @@
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/img\/list-symbol.svg",
+      "oAP" : "\/docs\/img\/list-symbol.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -701,7 +701,7 @@
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/img\/logo.svg",
+      "oAP" : "\/docs\/img\/logo.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -712,7 +712,7 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/img\/section_01.mp4",
+      "oAP" : "\/docs\/img\/section_01.mp4",
       "oF" : 0
     },
     "\/img\/section_02.mp4" : {
@@ -720,14 +720,14 @@
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/img\/section_02.mp4",
+      "oAP" : "\/docs\/img\/section_02.mp4",
       "oF" : 0
     },
     "\/img\/symbol_01.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/img\/symbol_01.svg",
+      "oAP" : "\/docs\/img\/symbol_01.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -737,7 +737,7 @@
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/img\/symbol_02.svg",
+      "oAP" : "\/docs\/img\/symbol_02.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -747,7 +747,7 @@
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/img\/symbol_03.svg",
+      "oAP" : "\/docs\/img\/symbol_03.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -757,7 +757,7 @@
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/img\/to-start-icon-svg.svg",
+      "oAP" : "\/docs\/img\/to-start-icon-svg.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -767,7 +767,7 @@
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/img\/twitter.svg",
+      "oAP" : "\/docs\/img\/twitter.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -777,7 +777,7 @@
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/build\/img\/youtube.svg",
+      "oAP" : "\/docs\/img\/youtube.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -789,7 +789,7 @@
       "ft" : 512,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/index.html",
+      "oAP" : "\/docs\/index.html",
       "oF" : 0,
       "oS" : 0
     },
@@ -799,7 +799,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/js\/_app.js",
+      "oAP" : "\/docs\/js\/_app.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -810,7 +810,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/js\/_content.js",
+      "oAP" : "\/docs\/js\/_content.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -821,7 +821,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/js\/_nav.js",
+      "oAP" : "\/docs\/js\/_nav.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -832,7 +832,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/js\/_scrollSmooth.js",
+      "oAP" : "\/docs\/js\/_scrollSmooth.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -843,7 +843,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 1,
-      "oAP" : "\/build\/js\/_toStart.js",
+      "oAP" : "\/docs\/js\/_toStart.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -854,7 +854,7 @@
       "ma" : 1,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/build\/js\/home.js",
+      "oAP" : "\/docs\/js\/home.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 1
@@ -869,7 +869,7 @@
       "ft" : 4096,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/build\/README.html",
+      "oAP" : "\/docs\/README.html",
       "oF" : 0,
       "oFM" : 0,
       "oS" : 0,
@@ -891,7 +891,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets-red",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 676155566.15471995
+    "lastBuiltDate" : 676157235.09044003
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
@@ -1185,14 +1185,14 @@
     "bowerUseExactVersion" : 0,
     "browserRefreshDelay" : 0,
     "browserslistString" : ">0.2%, last 2 versions, Firefox ESR, not dead",
-    "buildEnvironment" : 0,
+    "buildEnvironment" : 1,
     "buildFolderActive" : 1,
-    "buildFolderName" : "build",
+    "buildFolderName" : "docs",
     "cleanBuild" : 1,
     "cssoForceMediaMerge" : 0,
     "cssoRestructure" : 1,
     "environmentVariableEntries" : [
-      "NODE_ENV:::production"
+      "NODE_ENV:::development"
     ],
     "esLintConfigFileHandlingType" : 0,
     "esLintECMAVersion" : 7,
@@ -2145,7 +2145,7 @@
     },
     "esLintSourceType" : 0,
     "externalServerAddress" : "http:\/\/localhost:8888",
-    "gitIgnoreBuildFolder" : 1,
+    "gitIgnoreBuildFolder" : 0,
     "hideConfigFile" : 0,
     "jsCheckerReservedNamesString" : "",
     "languageDefaultsCOFFEE" : {
@@ -2770,7 +2770,7 @@
     "webpPresets" : {
 
     },
-    "websiteRelativeRoot" : "\/build"
+    "websiteRelativeRoot" : "docs"
   },
   "settingsFileVersion" : "3"
 }

@@ -1,0 +1,13 @@
+@use '../_01_settings/_settings' as *;
+@use '../_02_tools/_tools' as *;
+
+
+.section-grid-container {
+  padding-top: $space-xxl;
+}
+
+@media (max-width: $breakpoint-lg) {
+  .section-grid-container {
+    padding-top: $space-sm;
+  }
+}

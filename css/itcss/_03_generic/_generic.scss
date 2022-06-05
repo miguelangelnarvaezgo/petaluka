@@ -1,0 +1,12 @@
+/*
+Aquí colocaremos código genérico de base para todo
+el proyecto, típicamente el reset de CSS que estés usando,
+el Normalize o tu propio bloque de código para
+estandarizar los estilos de base usados en todos los navegadores.
+*/
+
+// @use '../_01_settings/_settings' as *;
+// @use '../_02_tools/_tools' as *;
+
+//----------------------------
+@use '_generic_reset' as *;

@@ -1,0 +1,40 @@
+include _components.pug
+
+doctype html
+html(lang="es")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport" content = "width=device-width, initial-scale=1.0")
+    meta(http-equiv="X-UA-Compatible" content="ie=edge")
+    link(rel="stylesheet" type="text/css" href="css/style.css")
+    title Petaluka
+  body
+    +to-start()
+    +nav('white')
+    +header
+    main.container-01#container-01
+      section#section-0.section-quienes-somos.section-grid-container
+        div.grid-cell#cell01
+        div.grid-cell#cell02
+          +article-01('0', 'quienes-somos', 'B', 0, 'https://github.com', 'Saber más')
+        div.grid-cell#cell03.video-container
+          +video-01('quienes-somos', 'img/section_01.mp4', 'R')
+      
+      section#section-1.que-hacemos.section-grid-container
+        div.grid-cell#cell04.video-container.video-container-que-hacemos
+          +video-01('que-hacemos', 'img/section_02.mp4', 'L')
+        div.grid-cell#cell05.content-container.content-container-que-hacemos
+          +article-01('1', 'que-hacemos', 'B', 0, 'https://github.com', 'Saber más')
+          div#video-container-temp.video-container.video-container-que-hacemos
+            +video-01('que-hacemos', 'img/section_02.mp4', 'L')          
+          +article-01('2', 'valores', 'B', 4, 'https://github.com', 'Saber más')
+      
+      section#section-2.conocenos.section-grid-container
+        div.grid-cell#cell07
+          +article-01('3', 'Conócenos', 'W', 0)
+    
+    +footer()
+      
+      
+
+    script(type="module" src="js/home.js")

@@ -1,0 +1,19 @@
+/*
+Aquí colocaremos el CSS que afecta a los elementos
+del HTML.
+
+No vamos a colocar más que estilo para etiquetas,
+es decir, aquí no definimos estilo para clases (class) CSS.
+*/
+
+
+@use '../_01_settings/_settings' as *;
+@use '../_02_tools/_tools' as *;
+// @use '../_03_generic/_generic' as *;
+
+//----------------------------
+@use '_elements_fonts' as *;
+
+// html {
+//   scroll-behavior: smooth;
+// }

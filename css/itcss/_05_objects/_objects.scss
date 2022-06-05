@@ -1,0 +1,24 @@
+/*
+Aquí van las clases (class) para la estructura de la página.
+En esta carpeta es el lugar donde colocar aspectos relacionados
+con el layout, mediaqueries básicas para acomodar las partes
+de nuestra plantilla a distintas dimensiones de pantallas.
+*/
+
+@use '../_01_settings/_settings' as *;
+@use '../_02_tools/_tools' as *;
+
+//----------------------------
+
+@use '_object_home' as *;
+
+
+// .section-grid-container{
+//   display: grid;
+//
+//   .grid-cell{
+//     display: block;
+//     box-sizing: border-box;
+//     overflow: hidden;
+//   }
+// }

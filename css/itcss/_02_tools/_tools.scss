@@ -1,0 +1,65 @@
+/*
+Aquí tendremos los mixins y funciones, también de los preprocesadores.
+*/
+
+@use '../_01_settings/_settings' as *;
+
+@mixin video-rounded-corners ($side) {
+  overflow: hidden;
+  z-index: -1;
+  @if $side == 'R' {
+    border-top-left-radius: $border-radius-05;
+    border-bottom-left-radius: $border-radius-05;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  @else if $side == 'L' {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: $border-radius-05;
+    border-bottom-right-radius: $border-radius-05;
+  }
+}
+
+@mixin selectFont ($font: "p", $color: $black) {
+
+	color: $color;
+	vertical-align: baseline;
+
+	@if $font == "H1" {
+		@extend h1;
+
+	} @else if $font == "H2" {
+		@extend h2;
+
+	} @else if $font == "H3" {
+		@extend h3;
+
+	} @else if $font == "H4" {
+		@extend h4;
+
+	} @else if $font == "H5" {
+		@extend h5;
+
+	} @else if $font == "H6" {
+		@extend h6;
+
+	} @else if $font == "blockquote" {
+		@extend .blockquote;
+
+	} @else if $font == "p" {
+		@extend p;
+
+	} @else if $font == "caption" {
+		@extend caption;
+
+	} @else if $font == "smallp" {
+		@extend .smallp;
+
+	} @else if $font == "button" {
+    @extend input[type="button"];
+
+	} @else if $font == "link" {
+    @extend a;
+  }
+}

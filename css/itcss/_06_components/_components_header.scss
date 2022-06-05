@@ -1,0 +1,46 @@
+@use '../_01_settings/_settings' as *;
+@use '../_02_tools/_tools' as *;
+@use '../_04_elements/_elements_fonts' as *;
+
+  header {
+    width: 100%;
+    overflow: hidden;
+
+    video {
+      min-width: 100%;
+      min-height: 600px;
+    }
+  }
+
+
+@media (min-width: $breakpoint-xs) { //480
+  header {
+
+  }
+
+}
+@media (min-width: $breakpoint-sm) { //768
+  header {
+  }
+}
+@media (min-width: $breakpoint-md) { //1024px
+  header {
+
+  }
+}
+@media (min-width: $breakpoint-lg) { // 1280px
+  header {
+
+  }
+}
+@media (min-width: $breakpoint-xl) { // 1440px
+  header {
+
+  }
+}
+@media (min-width: $breakpoint-xxl) { // 1920px
+
+  header {
+
+  }
+}

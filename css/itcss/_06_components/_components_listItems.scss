@@ -1,0 +1,26 @@
+@use '../_01_settings/_settings' as *;
+@use '../_02_tools/_tools' as *;
+
+.list-item {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+  margin-bottom: $space-lg;
+
+  img {
+    padding-right: $space-xxs;
+  }
+}
+
+
+@media (max-width: $breakpoint-lg) {
+  .list-item {
+    margin-bottom: $space-sm;
+  }
+}
+@media (max-width: $breakpoint-sm) {
+  .list-item {
+    margin-bottom: $space-xs;
+  }
+}

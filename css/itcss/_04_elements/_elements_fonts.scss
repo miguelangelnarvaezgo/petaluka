@@ -1,0 +1,184 @@
+@use "../_01_settings/_settings" as *;
+@use "../_02_tools/_tools" as *;
+// @use "../_03_generic/_generic" as *;
+
+
+
+//------------------------------------------------- BASICS
+
+h1 {
+  font-family: var(--font-family-header);
+  font-size: var(--font-size-h1);
+  line-height: var(--line-height-h1);
+  font-weight: var(--font-weight-black);
+  letter-spacing: -0.5px;
+  color: $hex-black;
+
+  margin-top: var(--margin-top-h1);
+  margin-bottom: var(--margin-bottom-h1);
+}
+
+h2 {
+  font-family: var(--font-family-header);
+  font-size: var(--font-size-h2);
+  line-height: var(--line-height-h2);
+  font-weight: var(--font-weight-black);
+  letter-spacing: -0.9px;
+  margin-bottom: var(--space-sm);
+  color: $hex-black;
+
+  margin-top: var(--margin-top-h2);
+  margin-bottom: var(--margin-bottom-h2);
+}
+
+h3 {
+  font-family: var(--font-family-header);
+  font-size: var(--font-size-h3);
+  line-height: var(--line-height-h3);
+  font-weight: var(--font-weight-black);
+  letter-spacing: -0.9px;
+
+  margin-top: var(--margin-top-h3);
+  margin-bottom: var(--margin-bottom-h3);
+}
+h4 {
+  font-family: var(--font-family-header);
+  font-size: var(--font-size-h4);
+  line-height: var(--line-height-h4);
+  font-weight: var(--font-weight-black);
+  letter-spacing: 0;
+
+  margin-top: var(--margin-top-h4);
+  margin-bottom: var(--margin-bottom-h4);
+}
+h5 {
+  font-family: var(--font-family-header);
+  font-size: var(--font-size-h5);
+  line-height: var(--line-height-h5);
+  font-weight: var(--font-weight-black);
+  letter-spacing: 0;
+
+  margin-top: var(--margin-top-h5);
+  margin-bottom: var(--margin-bottom-h5);
+}
+
+h6 { // Large body/ subheader
+  font-family: var(--font-family-header);
+  font-size: var(--font-size-h6);
+  line-height: var(--line-height-h6);
+  font-weight: var(--font-weight-black);
+  letter-spacing: 0;
+
+  margin-top: var(--margin-top-h6);
+  margin-bottom: var(--margin-bottom-h6);
+}
+
+blockquote {
+  @extend .blockquote;
+  text-align: center;
+  font-style: italic;
+  &:before {
+    content: '"'
+  }
+  &:after {
+    content: '"'
+  }
+}
+
+.blockquote { // Quote text
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-blockquote);
+  line-height: var(--line-height-blockquote);
+  font-weight: var(--font-weight-bold);
+  letter-spacing: 0;
+
+  margin-top: var(--margin-top-blockquote);
+  margin-bottom: var(--margin-bottom-blockquote);
+}
+
+p {
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-body);
+  line-height: var(--line-height-body);
+  font-weight: var(--font-weight-regular);
+  letter-spacing: -0.1px;
+
+  margin-top: 0px;
+  margin-bottom: var(--margin-bottom-body);
+}
+
+caption {
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-caption);
+  line-height: var(--line-height-caption);
+  font-weight: var(--font-weight-bold);
+  letter-spacing: -0.1px;
+
+  margin-top: var(--margin-top-caption);
+  margin-bottom: var(--margin-bottom-caption);
+
+}
+
+.caption {
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-caption);
+  line-height: var(--line-height-caption);
+  font-weight: var(--font-weight-regular);
+  letter-spacing: -0.1px;
+
+  margin-top: var(--margin-top-caption);
+  margin-bottom: var(--margin-bottom-caption);
+}
+
+.endnote {
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-endnote);
+  line-height: var(--line-height-endnote);
+  font-weight: var(--font-weight-regular);
+  letter-spacing: -0.1px;
+
+  margin-top: var(--margin-top-endnote);
+  margin-bottom: var(--margin-bottom-endnote);
+}
+
+.footnote{
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-footnote);
+  line-height: var(--line-height-footnote);
+  font-weight: var(--font-weight-regular);
+  letter-spacing: -0.1px;
+
+  margin-top: var(--margin-top-footnote);
+  margin-bottom: var(--margin-bottom-footnote);
+}
+
+
+
+
+//------------------------------------------------- ESTILOS
+
+strong {
+  font-weight: var(--font-weight-bold);
+}
+
+
+
+//------------------------------------------------- LINKS
+
+
+a {
+  font-family: var(--font-family-header);
+  letter-spacing: -0.1px;
+  text-overflow: ellipsis;
+  white-space: nowrap; // nowrap impide que se utilicen los espacios en blanco para saltos de línea
+  // text-decoration: none;
+  cursor: pointer;
+  word-wrap: break-word;
+  color: $color-primary-02;
+}
+
+//------------------------------------------------- LIST
+
+li {
+  // @extend h4;
+}

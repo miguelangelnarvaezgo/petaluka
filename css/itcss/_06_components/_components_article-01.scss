@@ -1,0 +1,66 @@
+@use '../_01_settings/_settings' as *;
+@use '../_02_tools/_tools' as *;
+
+
+.article-01 {
+  padding-top: $space-lg;
+  padding-left: $space-sm;
+  padding-right: $space-sm;
+  padding-bottom: $space-lg;
+
+  .article-01-title {
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    margin-bottom: $space-xs;
+
+    h2 {
+      margin: 0;
+      padding-top: $space-xxs;
+      padding-left: $space-xs;
+    }
+  }
+  .article-01-content {
+    padding-left: $space-xxxl + $space-md;
+    margin-bottom: $space-lg;
+  }
+
+  .button {
+    margin-left: $space-xxxl + $space-md;
+  }
+}
+
+@media (max-width: $breakpoint-sm) {
+  .article-01 {
+    padding-left: $space-xs;
+    padding-right: $space-xs;
+    padding-bottom: $space-lg;
+
+    .article-01-content {
+      padding-left: $space-xxxl;
+      // padding-right: $space-sm;
+    }
+    .button {
+      margin-left: $space-xxxl;
+    }
+  }
+}
+
+@media (max-width: $breakpoint-xs) {
+  .article-01 {
+    .article-01-title {
+      img {
+        width: $space-lg;
+      }
+      h2 {
+        padding-top: 0;
+      }
+    }
+    .article-01-content {
+      padding-left: $space-xl;
+    }
+    .button {
+      margin-left: $space-xl;
+    }
+  }
+}

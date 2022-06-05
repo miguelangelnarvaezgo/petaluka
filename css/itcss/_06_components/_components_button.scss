@@ -1,0 +1,30 @@
+@use "../_01_settings/_settings" as *;
+@use "../_02_tools/_tools" as *;
+@use "../_04_elements/_elements_fonts" as *;
+
+
+.button {
+  font-size: var(--font-size-base-lg);
+
+  padding-top: 6px;
+  padding-bottom: 4px;
+  padding-left: $space-xl;
+  padding-right: $space-xl;
+
+  background-color: $hex-primary-01;
+  border-radius: 50px;
+  cursor: pointer;
+
+  text-align: center;
+  color: $hex-white;
+  font-weight: var(--font-weight-bold);
+  text-decoration: none;
+
+  &:hover {
+    background-color: $hex-primary-02;
+  }
+  &:active {
+    box-shadow: none;
+    border: none;
+  }
+}

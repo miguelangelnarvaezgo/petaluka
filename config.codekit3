@@ -19,12 +19,6 @@
       "oF" : 0,
       "oS" : 0
     },
-    "\/build" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/docs\/build",
-      "oF" : 0
-    },
     "\/css\/itcss\/_00_fonts\/Poppins\/Poppins-Black.ttf" : {
       "cB" : 0,
       "ft" : 8192,
@@ -648,6 +642,12 @@
       "oS" : 3,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/docs" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/docs\/docs",
+      "oF" : 0
     },
     "\/img\/facebook.svg" : {
       "ft" : 2097152,
